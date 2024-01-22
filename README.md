@@ -33,7 +33,7 @@ pip install requests beautifulsoup4 pandas nltk
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/your-linkedin-profile)
+Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)]([https://www.linkedin.com/in/your-linkedin-profile])(https://www.linkedin.com/in/hardikjp/))
 
 ## Note
 
